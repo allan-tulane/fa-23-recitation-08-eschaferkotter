@@ -2,8 +2,7 @@
 
 ## Answers
 
-**Name:**_________________________
-**Name:**_________________________
+**Name:**Ethan Schaferkotter
 
 
 Place all written answers from `recitation-08.md` here for easier grading.
